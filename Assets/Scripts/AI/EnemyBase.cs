@@ -42,7 +42,7 @@ public class EnemyBase : MonoBehaviour
         MoveTowardsPlayer();
     }
 
-    // Move enemy toward the player's position
+    // Move enemy toward the players position
     protected void MoveTowardsPlayer()
     {
         agent.SetDestination(player.position);
@@ -83,7 +83,7 @@ public class EnemyBase : MonoBehaviour
     // Destroy the enemy
     protected virtual void Die()
     {
-        Debug.Log(gameObject.name + " has died!");
+        Debug.Log(gameObject.name + " has died");
         Destroy(gameObject);
     }
 }

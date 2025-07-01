@@ -26,7 +26,6 @@ public class UIManager : MonoBehaviour
         Transform player = GameObject.FindWithTag("Player")?.transform;
         if (player != null)
         {
-            // Search anywhere under player, including inactive objects, and pick the first active weapon
             WeaponBase[] weapons = player.GetComponentsInChildren<WeaponBase>(true);
 
             foreach (var weapon in weapons)

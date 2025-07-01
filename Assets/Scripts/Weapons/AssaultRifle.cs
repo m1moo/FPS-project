@@ -34,11 +34,11 @@ public class AssaultRifle : WeaponBase
             {
                 audioSource.PlayOneShot(shootSound);
             }
-            Debug.Log("🔫 AR Fired! Bullets left: " + currentAmmo);
+            Debug.Log("AR Fired, Bullets left: " + currentAmmo);
         }
         else if (currentAmmo <= 0)
         {
-            Debug.Log("⚠️ AR Out of ammo! Press R to reload.");
+            Debug.Log("AR Out of ammo, Press R to reload.");
         }
     }
 
@@ -49,7 +49,7 @@ public class AssaultRifle : WeaponBase
         {
             audioSource.PlayOneShot(reloadSound);
         }
-        Debug.Log("🔁 AR Reloaded! Bullets refilled to: " + currentAmmo);
+        Debug.Log("AR Reloaded, Bullets refilled to: " + currentAmmo);
     }
 
     protected override void ShootProjectile()

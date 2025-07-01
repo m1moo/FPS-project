@@ -41,7 +41,7 @@ public class RangedEnemy : EnemyBase
             rb.velocity = direction * 20f; // Bullet speed
         }
 
-        Debug.Log("Ranged enemy fired a projectile!");
+        Debug.Log("Ranged enemy fired a projectile");
     }
 }
 

@@ -8,7 +8,7 @@ public class Pistol : WeaponBase
 
     protected override void Awake()
     {
-        base.Awake();  // Initialize ammo
+        base.Awake();
         audioSource = GetComponent<AudioSource>();
     }
 
@@ -34,11 +34,11 @@ public class Pistol : WeaponBase
             {
                 audioSource.PlayOneShot(shootSound);
             }
-            Debug.Log("🔫 Fired! Bullets left: " + currentAmmo);
+            Debug.Log("Fired, Bullets left: " + currentAmmo);
         }
         else if (currentAmmo <= 0)
         {
-            Debug.Log("⚠️ Out of ammo! Press R to reload.");
+            Debug.Log("Out of ammo, Press R to reload.");
         }
     }
 
@@ -49,7 +49,7 @@ public class Pistol : WeaponBase
         {
             audioSource.PlayOneShot(reloadSound);
         }
-        Debug.Log("🔁 Reloaded! Bullets refilled to: " + currentAmmo);
+        Debug.Log("Reloaded, Bullets refilled to: " + currentAmmo);
     }
 
     protected override void ShootProjectile()

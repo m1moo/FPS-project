@@ -10,19 +10,17 @@ public class WeaponBase : MonoBehaviour
     protected int currentAmmo;
     protected float lastFireTime;
 
-    // Public properties to expose ammo counts to UIManager
+    // show ammo counts to UIManager
     public int CurrentAmmo => currentAmmo;
     public int MaxAmmo => maxAmmo;
 
-    // Initialize ammo count
     protected virtual void Awake()
     {
         currentAmmo = maxAmmo;
     }
 
-    protected virtual void Update()
+    protected virtual void Update() // just so i can make updates to my project if i have enough time
     {
-        // Child classes will handle input here
     }
 
     // Called when firing the weapon

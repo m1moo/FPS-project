@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class WeaponSwitcher : MonoBehaviour
 {
-    public GameObject[] weapons;  // Assigned all weapon prefabs here
+    public GameObject[] weapons;
     private int currentIndex = 0;
 
     void Start()
