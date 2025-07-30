@@ -11,21 +11,23 @@ public class MeleeEnemy : EnemyBase
     // Override the base Update to add attack behavior
     protected override void Update()
     {
-        // Run the movement from EnemyBase
         base.Update();
 
         if (player == null) return;
 
-        // How far enemy is away from player
+        // Get the AI state to check if meelee can attack
+        EnemyAIState aiState = GetComponent<EnemyAIState>();
+        if (aiState == null || aiState.GetCurrentState() != EnemyAIState.State.Alert) return;
+
         float distance = Vector3.Distance(transform.position, player.position);
 
-        // if player is in the range with enough time then attack
         if (distance <= attackRange && Time.time >= lastAttackTime + attackCooldown)
         {
             AttackPlayer();
             lastAttackTime = Time.time;
         }
     }
+
 
     private void AttackPlayer()
     {

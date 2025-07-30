@@ -1,54 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\FPS-project\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FPS-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\fps-project\\assets\\scripts\\traps\\securitycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\securitycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\fps-project\\assets\\scripts\\ai\\enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\weapons\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\fps-project\\assets\\scripts\\ai\\enemyaistate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\enemyaistate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\weapons\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\fps-project\\assets\\scripts\\medkit\\medkitspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medkit\\medkitspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\weapons\\playerprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\playerprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\weapons\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\weapons\\assaultrifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\assaultrifle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\ai\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\ai\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\ai\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\fps-project\\assets\\scripts\\ai\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\fps-project\\assets\\scripts\\medkit\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8067566A-E444-4D6A-1846-080BA8D50A14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medkit\\medkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EnemyBase.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\EnemyBase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\EnemyBase.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\EnemyBase.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\EnemyBase.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SecurityCamera.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\Traps\\SecurityCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\SecurityCamera.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\Traps\\SecurityCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\SecurityCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T16:59:07.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EnemyProjectile.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\EnemyProjectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\EnemyProjectile.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\EnemyProjectile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\EnemyProjectile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:02:46.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MeleeEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\MeleeEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\MeleeEnemy.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\MeleeEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\MeleeEnemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:05:22.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RangedEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\RangedEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\RangedEnemy.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\AI\\RangedEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AI\\RangedEnemy.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:08:02.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:15:55.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssaultRifle.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\AssaultRifle.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AssaultRifle.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\AssaultRifle.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\AssaultRifle.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:16:38.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pistol.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\Pistol.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Pistol.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\Pistol.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Pistol.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:19:17.5Z",
+              "WhenOpened": "2025-07-30T18:47:24.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PlayerProjectile.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\PlayerProjectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\PlayerProjectile.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\PlayerProjectile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\PlayerProjectile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Title": "Medkit.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\Medkit\\Medkit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Medkit\\Medkit.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\Medkit\\Medkit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Medkit\\Medkit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:21:09.374Z",
+              "WhenOpened": "2025-07-30T18:47:20.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WeaponBase.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\WeaponBase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponBase.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\WeaponBase.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponBase.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBYAAAAFAAAAAAAAAA==",
+              "Title": "MedkitSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\Medkit\\MedkitSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Medkit\\MedkitSpawner.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\Medkit\\MedkitSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Medkit\\MedkitSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:23:25.271Z",
+              "WhenOpened": "2025-07-30T18:47:19.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeaponSwitcher.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\WeaponSwitcher.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponSwitcher.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\Weapons\\WeaponSwitcher.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponSwitcher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Title": "EnemyAIState.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\AI\\EnemyAIState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\EnemyAIState.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\AI\\EnemyAIState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\EnemyAIState.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwGcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:25:09.707Z",
+              "WhenOpened": "2025-07-30T18:47:15.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAUAAAAAAAAAA==",
+              "Title": "EnemyVision.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\AI\\EnemyVision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\EnemyVision.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FPS-project\\Assets\\Scripts\\AI\\EnemyVision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\EnemyVision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:27:13.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
-              "ToolTip": "C:\\Users\\USER\\FPS-project\\Assets\\Scripts\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:28:25.926Z",
+              "WhenOpened": "2025-07-30T18:47:09.872Z",
               "EditorCaption": ""
             }
           ]

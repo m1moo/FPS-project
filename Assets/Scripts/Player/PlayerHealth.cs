@@ -28,4 +28,10 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("Player has died!");
     }
+    public void Heal(float amount)
+    {
+        currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
+        Debug.Log("Player healed! Current HP: " + currentHealth);
+    }
+
 }

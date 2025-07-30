@@ -16,15 +16,19 @@ public class RangedEnemy : EnemyBase
 
         if (player == null) return;
 
+        // Get the AI state to check if ranged can shoot
+        EnemyAIState aiState = GetComponent<EnemyAIState>();
+        if (aiState == null || aiState.GetCurrentState() != EnemyAIState.State.Alert) return;
+
         float distance = Vector3.Distance(transform.position, player.position);
 
-        // If player is in range and cooldown is done, shoot
         if (distance <= fireRange && Time.time >= lastFireTime + fireCooldown)
         {
             Shoot();
             lastFireTime = Time.time;
         }
     }
+
 
     private void Shoot()
     {
